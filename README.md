@@ -69,15 +69,15 @@ This project is a **COVID Patients Management System** developed using Python an
 
 ### 1. Admin Login
 
-![Admin Login](./screenshots/admin_login.png)
+![Admin Login](ss/s1.png)
 
 ### 2. Add Patient
 
-![Add Patient](./screenshots/add_patient.png)
+![Add Patient](./ss/s2.png)
 
 ### 3. Display Patient Records
 
-![Display Patient Records](./screenshots/display_patient_records.png)
+![Display Patient Records](./ss/s3.png)
 
 ## Contributing
 
